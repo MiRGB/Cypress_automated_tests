@@ -2,7 +2,11 @@
 
 This project contains a comprehensive suite of automated end-to-end tests using **Cypress** to verify the functionality and reliability of the web application [automationpractice.pl](http://www.automationpractice.pl/index.php).
 
-👉 **Latest test report:** [https://mirgb.github.io/Cypress_automated_tests/](https://mirgb.github.io/Cypress_automated_tests/)
+---
+
+## 📊 Live Test Report
+
+👉 **Latest report:** [mirgb.github.io/Cypress_automated_tests](https://mirgb.github.io/Cypress_automated_tests)
 
 ---
 
