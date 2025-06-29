@@ -68,3 +68,10 @@ Check the live report here:
 ## 🎯 Why Mochawesome?
 
 I chose **Mochawesome** here to demonstrate flexibility with different test reporting tools. While I typically use **Allure** in other projects, Mochawesome provides a clean, simple integration with Cypress and generates detailed reports in JSON and HTML formats, showcasing adaptability in test automation.
+
+---
+
+## 📄 Copyright Notice
+
+Copyright © MiRGB, 2025.  
+All rights reserved.
